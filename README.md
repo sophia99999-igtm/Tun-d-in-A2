@@ -24,8 +24,8 @@ When you click on the link, you are greeted with my code behind the project. To 
 Click on the coloured square desired, either "Happy, Angry, Sad or Calm,  and the corresponding sound will automatically begin to play. 
 
 To enable "studymode", scroll down and you'll see a button in the bottom centre of the project writing "regular mode"
-Click it change between study mode and regular. 
+Click it to change between study mode and regular. 
 
 NOTE YOU CAN NOT CLICK ON MULTIPLE SOUNDS AT ONCE OR THEY WILL REMIX. 
-If this occours click the red play button to reset the page. 
+If this occurs, click the red play button to reset the page. 
 
