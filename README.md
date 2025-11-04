@@ -1,5 +1,5 @@
 # Tun-d-in-A2
-I have eight soundtracks that I created using Tunepad; all the links are listed below. When you click the link a "welcome to Tunepad" prompt will appear, click "ok" to continue. 
+I have eight soundtracks that I created using Tunepad; all the links are listed below. When you click the link, a "welcome to Tunepad" prompt will appear; click "ok" to continue. 
 Next, go to the top left of the page and click the "play all" button to hear the soundtrack. 
 
 
